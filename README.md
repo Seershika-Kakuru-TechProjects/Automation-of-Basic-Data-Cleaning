@@ -6,7 +6,7 @@ This is a streamlit app that I made to automate some basic data cleaning tasks o
 Operations part of the app:
 - remove duplicate rows
 
-Operations after selecting a specific column:
+Operations after selecting a specific column:<br>
 For a categorical column:
 - Handling missing values
 - Converting the column into a different datatype
