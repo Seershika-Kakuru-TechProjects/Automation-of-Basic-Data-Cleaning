@@ -1,4 +1,4 @@
-App title: Basic Data Cleaning Automation App
+App title: Basic Data Cleaning Automation App<br>
 App URL: https://automation-of-basic-data-cleaning-qmhw72qjxqyga3dpjsbxbe.streamlit.app/
 
 This is a streamlit app that I made to automate some basic data cleaning tasks on excel/csv files.Instead of writing a lot of data cleaning code for every data science/data analysis project, one could easily use operations on this simple app for initial preprocessing.
